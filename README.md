@@ -7,28 +7,41 @@ Competição multidisciplinar que será realizada online, em três áreas:
 
 Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovadoras voltadas para a fase de recuperação da pandemia (retomada das atividades nos campi)
 
-# Organização 
+## Comitê técnico:
 
-- Comitê técnico: PCTec, DPI, CDT/DPI, LAPPIS/FGA
+PCTec, DPI, CDT/DPI, LAPPIS/FGA
 
-- Comitê científico
+## Comitê científico
 
-Cláudia Amorim (DIRPE/DPI)
+- Cláudia Amorim (DIRPE/DPI)
+- Michele Carvalho (PCTec)
+- Renata Aquino (PCTec)
+- Marileusa Chiarello (CDT/DPI) 
+- Tânia Cruz (CDT/DPI)
+- Carla Rocha (FGA)
+- Wildo Navegantes (FCE, COES) 
+- Olgamir Amancia (DEX)
+- Virgílio Almeida (INT, COES)
 
-Michele Carvalho (PCTec)
+# Participantes
 
-Renata Aquino (PCTec)
+Equipes de 2 a 10 integrantes, 15 equipes em cada área
 
-Marileusa Chiarello (CDT/DPI) 
+- alunos devidamente matriculados na UnB (mínimo de 50% da equipe)
+- professores, servidores, técnicos, bolsistas e terceirizados vinculados à UnB 
+- membros externos à comunidade acadêmica.
 
-Tânia Cruz (CDT/DPI)
+link para o evento [http://pctec.unb.br/eventos/129-covidas](http://pctec.unb.br/eventos/129-covidas)
 
-Carla Rocha (FGA)
+Inscrições por equipe: [https://bit.ly/3cC6MFi](https://bit.ly/3cC6MFi) 
 
-Wildo Navegantes (FCE, COES) 
+Inscrições individuais: [https://bit.ly/3727I4I](https://bit.ly/3727I4I)
 
-Olgamir Amancia (DEX)
 
-Virgílio Almeida (INT, COES)
+# Documentação de Apoio
+
+O repositório armazena artefatos relacionados a maratona (slides das apresentações, guias, contatos).
+
+# Organização
 
 ![](https://github.com/COVIDAS-UnB/Organizacao/blob/master/imgs/Organizacao-do-evento.png)
