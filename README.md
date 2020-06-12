@@ -31,3 +31,4 @@ Olgamir Amancia (DEX)
 
 Virgílio Almeida (INT, COES)
 
+![](https://github.com/COVIDAS-UnB/Organizacao/blob/master/imgs/Organizacao-do-evento.png)
