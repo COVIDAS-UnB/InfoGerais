@@ -7,6 +7,26 @@ Competição multidisciplinar que será realizada online, em três áreas:
 
 Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovadoras voltadas para a fase de recuperação da pandemia (retomada das atividades nos campi)
 
+# Comunicação
+
+# Discussões Gerais
+## As discussões gerais, dúvidas assíncronas com os palestrantes, discussões de acordo com as áreas temáticas:
+
+[Link do Canal Discord](https://discord.com/channels/719918074635223161/720960510874615808)
+
+## Canal com as palestras/lives:
+
+[Link para o canal do youtube](https://www.youtube.com/user/unbtv)
+
+## Comunicação com os mentores/equipe
+
+Cada time terá um grupo de discussão no Telegram com o mentor:
+
+- Grupo 1 - [Link grupo telegram](https://t.me/RasaBrasil)
+
+
+
+
 ## Comitê técnico:
 
 PCTec, DPI, CDT/DPI, LAPPIS/FGA
