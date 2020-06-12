@@ -10,15 +10,15 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 # Comunicação
 
 # Discussões Gerais
-## As discussões gerais, dúvidas assíncronas com os palestrantes, discussões de acordo com as áreas temáticas:
+ As discussões gerais, dúvidas assíncronas com os palestrantes, discussões de acordo com as áreas temáticas:
 
 [Link do Canal Discord](https://discord.com/channels/719918074635223161/720960510874615808)
 
-## Canal com as palestras/lives:
+Canal com as palestras/lives:
 
 [Link para o canal do youtube](https://www.youtube.com/user/unbtv)
 
-## Comunicação com os mentores/equipe
+Comunicação com os mentores/equipe
 
 Cada time terá um grupo de discussão no Telegram com o mentor:
 
