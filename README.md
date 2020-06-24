@@ -11,18 +11,20 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 
 ## Dia 25/06
 
-- Live de abertura - 25/06 as 14:00
+- Live de abertura - as 14:00
 [Link da Live](https://youtu.be/UiDQIj8ww_M)
 
-- Palestra de Abertura e Apresentação dos problemas da maratona - 25/06 as 14:30
+- Palestra de Abertura e Apresentação dos problemas da maratona -  as 14:30
 [Link da Live](https://youtu.be/jE-QcisKwts)
 
-- Palestra "Mudanças nas relações de produção, serviço e consumo" - 25/06 as 16:15
+- Palestra "Mudanças nas relações de produção, serviço e consumo" - as 16:15
 
 [Link da Live](https://youtu.be/6-d_w7KmHIc)
 
+- Reunião de alinhamento com os lideres
 
-- I
+[Link da videoconferencia](https://meet.jit.si/COVIDAS-Diaria)
+
 # Comunicação
 
 # Discussões Gerais
