@@ -11,6 +11,9 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 
 ## Dia 25/06
 
+- 10:00 - Reunião com os mentores (via teams)
+[Link da videoconferencia]()
+
 - 14:00 - Live de abertura
 [Link da Live](https://youtu.be/UiDQIj8ww_M)
 
