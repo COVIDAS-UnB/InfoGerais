@@ -35,13 +35,13 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 
 Canal com as palestras/lives:
 
-[Link para o canal do youtube](https://www.youtube.com/user/unbtv)
+[Link para o canal do youtube](https://www.youtube.com/channel/UCbZvFMRd5NaPiqj0w4uU8RQ/videos?view=2&flow=grid)
 
 Comunicação com os mentores/equipe
 
 Cada time terá um grupo de discussão no Telegram com o mentor:
 
-- Grupo 1 - [Link grupo telegram](https://t.me/RasaBrasil)
+- Grupo 1 - [Link grupo telegram](https://t.me/CovidasUnB)
 
 
 
