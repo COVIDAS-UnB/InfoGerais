@@ -7,6 +7,22 @@ Competição multidisciplinar que será realizada online, em três áreas:
 
 Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovadoras voltadas para a fase de recuperação da pandemia (retomada das atividades nos campi)
 
+# Programação 
+
+## Dia 25/06
+
+- Live de abertura - 25/06 as 14:00
+[Link da Live](https://youtu.be/UiDQIj8ww_M)
+
+- Palestra de Abertura e Apresentação dos problemas da maratona - 25/06 as 14:30
+[Link da Live](https://youtu.be/jE-QcisKwts)
+
+- Palestra "Mudanças nas relações de produção, serviço e consumo" - 25/06 as 16:15
+
+[Link da Live](https://youtu.be/6-d_w7KmHIc)
+
+
+- I
 # Comunicação
 
 # Discussões Gerais
