@@ -27,10 +27,8 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 [Link da videoconferencia](https://meet.jit.si/COVIDAS-Diaria)
 
 
-Programação Maratona COVIDAS UnB:
 
-
-26/06
+## Dia 26/06
 
 10h00 - Colaboração e inovação abertas: uso de repositório e ferramentas remotas - https://youtu.be/NsAyIUfh0s4
 
