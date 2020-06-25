@@ -30,13 +30,13 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 
 ## Dia 26/06
 
-10h00 - Colaboração e inovação abertas: uso de repositório e ferramentas remotas - https://youtu.be/NsAyIUfh0s4
+- 10h00 - Colaboração e inovação abertas: uso de repositório e ferramentas remotas - https://youtu.be/NsAyIUfh0s4
 
-16h00 - Design com olhar disruptivo - https://youtu.be/vlbB0xYRulQ
+- 16h00 - Design com olhar disruptivo - https://youtu.be/vlbB0xYRulQ
 
-17h00 - Reunião com os líderes de projeto  - jitsi
+- 17h00 - Reunião com os líderes de projeto  - jitsi
 
-19h00 - Produtos e serviços  empreendedores no contexto da pandemia - https://youtu.be/ihgwwEuIu64
+- 19h00 - Produtos e serviços  empreendedores no contexto da pandemia - https://youtu.be/ihgwwEuIu64
 
 # Comunicação
 
