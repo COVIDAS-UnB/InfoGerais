@@ -23,7 +23,7 @@ Visa incentivar a comunidade acadêmica da UnB a desenvolver soluções inovador
 - 16:15 - Palestra "Mudanças nas relações de produção, serviço e consumo" 
 [Link da Live](https://youtu.be/6-d_w7KmHIc)
 
-- 17:00 - Reunião de alinhamento com os lideres
+- 18:00 - Reunião de alinhamento com os lideres
 [Link da videoconferencia](https://meet.jit.si/COVIDAS-Diaria)
 
 
