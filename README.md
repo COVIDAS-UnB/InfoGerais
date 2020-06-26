@@ -1,3 +1,5 @@
+https://covidas-unb.github.io/InfoGerais/
+
 # Maratona de Inovação COVIDAS UnB
 
 Competição multidisciplinar que será realizada online, em três áreas:
